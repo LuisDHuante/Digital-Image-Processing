@@ -1,4 +1,5 @@
 # Digital Image Processing Course
+![dip](https://github.com/user-attachments/assets/75cf2249-2c2c-4526-91d9-3254fd91f776)
 Projects, activities and exercises conducted for the Introduction to Digital Image Processing class. All the material is in Spanish.
 
 ## Affiliation
