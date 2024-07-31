@@ -1,5 +1,8 @@
 
 # Digital Image Processing
+![img](https://github.com/user-attachments/assets/538b614a-0912-4419-9023-dc8bf132451d)
+
+
 Projects, activities and exercises conducted for the Digital Image Processing class. 
 
 ## Affiliation
