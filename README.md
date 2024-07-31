@@ -1,27 +1,34 @@
-# Digital Image Processing Course
-![dip](https://github.com/user-attachments/assets/75cf2249-2c2c-4526-91d9-3254fd91f776)
-
-
-Projects, activities and exercises conducted for the Introduction to Digital Image Processing class. All the material is in Spanish.
+# Networks and Graph Theory
+This repository contains implementations of various network and graph analysis techniques using Python and the NetworkX library. It includes algorithms for analyzing network structure, measuring centrality, detecting communities, and visualizing graphs, providing tools for exploring complex relationships and data interactions.
 
 ## Affiliation
-Final project for the Digital Image Processing class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan. 
+Final project for the Selected Topics in Data Science (Network analysis) class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan. 
 
-## Grayscale Interface
-A user-friendly application built with Tkinter and PIL to open, convert, and save images in grayscale, offering an intuitive interface for easy image processing. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/Grayscale_Interface_LuisDavidHuante.py)
+## Introduction
+This project offers hands-on exercises for learning the fundamentals of graph theory and practical applications using the NetworkX library in Python. It covers key concepts such as graph traversal, shortest paths, and network visualization through interactive examples. All the work is compiled in [this .ipynb notebook.]()
 
-## Spatial Filters
-This project focuses on exploring various image properties and applying spatial filters to enhance or detect features within images, utilizing techniques such as edge detection, blurring, and sharpening. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/Tarea2_FiltrosEspaciales.ipynb)
+## Airport Network Centrality Analysis
+This project analyzes various centrality measures, such as degree, closeness, and betweenness centrality, using a network of global airports. It aims to identify key airports based on their connectivity and influence within the international aviation network. All the work is compiled in [this .ipynb notebook.]()
 
-## Image Enhancement and Edge Detection
-This project involves improving image quality and detecting edges using techniques such as Gaussian smoothing, Contrast Limited Adaptive Histogram Equalization (CLAHE), and the Canny edge detection algorithm.All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/Tarea3DeteccionBordes_LuisDavidHuante.ipynb)
+## Erdős-Rényi Graphs and Clustering Coefficient: 
+This project focuses on Erdős-Rényi random graphs and their properties, focusing on the clustering coefficient to understand the degree of local clustering and connectivity within these stochastic networks. All the work is compiled in [this .ipynb notebook.]()
 
-## Affine Transformations
-This project involves implementing an affine transformation, a linear mapping method that preserves points, straight lines, and planes, to manipulate images through scaling, rotation, translation, and shearing. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/TransformacionesAfines_LDH.ipynb)
 
-## Frequency Domain Filtering
-This project focuses on applying frequency domain filtering techniques to process images, which involves transforming the image into the frequency domain, applying filters to modify specific frequency components, and then transforming it back to the spatial domain. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/FiltradoFrecuencial_LDH.ipynb)
+## PageRank Analysis of NBA Teams' Performance
+This project applies the PageRank algorithm to analyze and rank NBA teams based on their win-loss records, assessing the relative strength and influence of teams within the league's competitive network. All the work is compiled in [this .ipynb notebook.]()
 
-## Morphology and Image Segmentation
-This project deals with morphological operations and image segmentation techniques to analyze and manipulate the structure of objects within an image, focusing on tasks like shape detection, boundary extraction, and separating distinct regions based on their properties. All the work is compiled in [this .ipynb notebook.](https://github.com/LuisDHuante/Digital-Image-Processing/blob/main/Morfolog%C3%ADa_LuisDavidHuante.ipynb)
+## Comparing Small-World Networks: Jazz Musicians, Game of Thrones, and Air Traffic: 
+This project analyzes the small-world properties of different networks, including jazz musicians, Game of Thrones characters, and air traffic, to compare their clustering and path lengths, revealing similarities and differences in their network structures. All the work is compiled in [this .ipynb notebook.]()
 
+
+## EEG Signal Connectivity and Classifier for Schizophrenia Detection: 
+This project involves constructing a classifier to differentiate between healthy individuals and those with schizophrenia based on EEG signal patterns. It includes building a network for each patient, creating vector representations of these networks, and developing a classifier to analyze and classify the connectivity patterns. All the work is compiled in [this .ipynb notebook.]()
+
+
+## **Barabási-Albert Networks and Characteristic-Based Identification**: 
+This project explores Barabási-Albert networks and their unique properties, focusing on using network characteristics to identify and distinguish between different types of networks based on their structural features. All the work is compiled in [this .ipynb notebook.]()
+
+
+## Final Project
+## Disease Transmission Dynamics in Complex Networks: Integration of Epidemiological Models and Graph Analysis:
+This project offers a comprehensive study of infectious disease spread through complex networks by combining network theory and epidemiological modeling. Using Python and NetworkX, various network types—random, small-world, and scale-free—are constructed and analyzed to simulate pathogen diffusion with the SIR (Susceptible, Infected, Recovered) model. The study investigates network characteristics and disease propagation dynamics through node centrality analysis and infection simulations on fictional networks like Game of Thrones and a real Facebook network, revealing how network structure influences the speed and reach of epidemics. The results highlight the role of highly connected nodes and intervention measures in controlling disease outbreaks, providing valuable insights for epidemic management and prevention. The code is compiled in [this .ipynb notebook.]() The findings are discussed in [this .pdf file]()
