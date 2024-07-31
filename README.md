@@ -1,6 +1,6 @@
 
 # Digital Image Processing
-This repository contains implementations of various network and graph analysis techniques using Python and the NetworkX library. It includes algorithms for analyzing network structure, measuring centrality, detecting communities, and visualizing graphs, providing tools for exploring complex relationships and data interactions.
+Projects, activities and exercises conducted for the Digital Image Processing class. 
 
 ## Affiliation
 Projects conducted for the Digital Image Processing class, at Universidad Nacional Autónoma de México (UNAM), in its ENES Morelia Campus, as part of its Bs. in Data Science career plan. 
