@@ -30,5 +30,6 @@ This project explores Barabási-Albert networks and their unique properties, foc
 
 
 ## Final Project
+![imagen](https://github.com/user-attachments/assets/6e82ebea-d191-4a23-8353-4c914a7f3306)
 ## Disease Transmission Dynamics in Complex Networks: Integration of Epidemiological Models and Graph Analysis:
 This project offers a comprehensive study of infectious disease spread through complex networks by combining network theory and epidemiological modeling. Using Python and NetworkX, various network types—random, small-world, and scale-free—are constructed and analyzed to simulate pathogen diffusion with the SIR (Susceptible, Infected, Recovered) model. The study investigates network characteristics and disease propagation dynamics through node centrality analysis and infection simulations on fictional networks like Game of Thrones and a real Facebook network, revealing how network structure influences the speed and reach of epidemics. The results highlight the role of highly connected nodes and intervention measures in controlling disease outbreaks, providing valuable insights for epidemic management and prevention. The code is compiled in [this .ipynb notebook.]() The findings are discussed in [this .pdf file]()
